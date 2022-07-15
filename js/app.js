@@ -1,4 +1,4 @@
-import data from "./js/data.js";
+import data from "data.js";
 
 const menu = document.querySelector(".menu__nav");
 const dailyBtn = document.querySelector("#dailyBtn");
