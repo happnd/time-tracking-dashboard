@@ -11,8 +11,6 @@ let state = "daily";
 
 dailyBtn.classList.toggle("active__button");
 
-console.log(data);
-
 menu.addEventListener("click", (event) => {
   dailyBtn.classList.remove("active__button");
   weeklyBtn.classList.remove("active__button");
