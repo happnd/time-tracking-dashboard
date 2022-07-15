@@ -1,4 +1,4 @@
-export const data = [
+const data = [
   {
     title: "Work",
     timeframes: {
@@ -102,3 +102,5 @@ export const data = [
     },
   },
 ];
+
+export default data;
