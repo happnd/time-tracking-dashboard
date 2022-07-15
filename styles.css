@@ -91,7 +91,7 @@ button:hover {
   color: white;
 }
 
-#dailyBtn {
+.active__button {
   color: white;
 }
 
@@ -149,6 +149,12 @@ button:hover {
   background-color: var(--limegreen);
 }
 
+.comp__icon__exercise img {
+  position: relative;
+  right: -170px;
+  top: 0px;
+}
+
 .comp__social {
   background-color: var(--violet);
 }
@@ -180,7 +186,8 @@ button:hover {
   color: var(--paleblue);
 }
 
-.comp__icon {
+.comp__icon,
+.comp__icon__exercise {
   overflow: hidden;
 }
 
