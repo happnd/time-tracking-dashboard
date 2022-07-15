@@ -205,7 +205,7 @@ footer a {
   color: var(--limegreen);
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1200px) {
   body {
     height: 210%;
   }
